@@ -1,4 +1,4 @@
-// create web server to serve comments
+// Create web server to serve comments
 const express = require('express');
 const { readFileSync } = require('fs');
 const app = express();
